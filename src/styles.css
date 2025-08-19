@@ -1,0 +1,34 @@
+.added {
+  color: green;
+  background-color: lightgrey;
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.updated {
+  background-color: lightgrey;
+  color: yellow;
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.unupdated {
+  background-color: lightgrey;
+  color: brown;
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.deleted {
+  background-color: lightgrey;
+  color: blue;
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.error {
+  background-color: lightgrey;
+  color: red;
+  padding-top: 5px;
+  font-size: 15px;
+}
